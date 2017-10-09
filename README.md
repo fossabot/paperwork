@@ -19,6 +19,7 @@ For the back-end part a MySQL database stores everything. With such common requi
 ![05](https://raw.githubusercontent.com/twostairs/paperwork/gh-pages/images/screenshots/05.png)
 ![06](https://raw.githubusercontent.com/twostairs/paperwork/gh-pages/images/screenshots/06.png)
 ![07](https://raw.githubusercontent.com/twostairs/paperwork/gh-pages/images/screenshots/07.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpaperwork.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpaperwork?ref=badge_shield)
 
 ## Demo (yes, there is one!)
 
@@ -108,3 +109,7 @@ Maybe. Check out more detailed information about the features we are currently w
 
 Contribute. Simply fork the Paperwork repository here on GitHub, add your contributions and send us pull-requests. In addition, make sure to shoot us an e-mail at [paperwork-dev@googlegroups.com](mailto:paperwork-dev@googlegroups.com) and inform us about your interest in joining the team. We will then make sure to give you the required access to our [GitHub Issues](https://github.com/twostairs/paperwork/issues) as well.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fpaperwork.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fpaperwork?ref=badge_large)
